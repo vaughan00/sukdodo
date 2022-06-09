@@ -1,4 +1,4 @@
-# react-native-sudoku
+# react
 a simple sudoku game written in React Native, with only one level for masters
 
 I've made a record in **03:43** , I'd like to see if someone can break my record 😃 
